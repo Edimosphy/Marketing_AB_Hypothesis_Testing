@@ -48,12 +48,19 @@ The primary objective of this case study is to perform hypothesis testing on the
 
 ## Visualization images
 ![image](https://github.com/user-attachments/assets/f279a0ef-e965-4bc1-8cb2-666d032a64e5)
+
 ![image](https://github.com/user-attachments/assets/cc1d4a60-549c-42cd-bb6b-6eac3dc34524)
+
 ![image](https://github.com/user-attachments/assets/ffa2a90f-12fe-48da-9078-1f329070bfb9)
+
 ![image](https://github.com/user-attachments/assets/943e0d68-bb73-421f-a2b5-cf73e354249e)
+
 ![image](https://github.com/user-attachments/assets/2716114e-be4f-4fc3-8be0-44f84de1de34)
+
 ![image](https://github.com/user-attachments/assets/ee69ba52-9b96-40bb-bf49-b419000e78d5)
+
 ![image](https://github.com/user-attachments/assets/42f9b415-5ded-46f4-a9e7-27a8cf25199d)
+
 ![image](https://github.com/user-attachments/assets/6f565bf9-d216-4091-939f-3eee1944a074)
 
 
